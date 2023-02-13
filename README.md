@@ -2,7 +2,7 @@
 
 # Charles-Spencer Coleman
 
-![Profile Picture](https://www.example.com/profile-picture.jpg)
+![Profile Picture](banner.jpg)
 
 I have a strong background in developing and implementing automation solutions for various industries. My expertise lies in designing and programming automation systems and testing and maintaining these systems to ensure they are running smoothly. In my previous roles, I have successfully implemented automation processes that have resulted in increased safety, efficiency and cost savings for my employers. I am proficient in various programming languages and have a keen eye for detail, making me well-suited to troubleshooting and resolving any issues that may arise. I am also a strong team player and thrive in a collaborative environment.
 
