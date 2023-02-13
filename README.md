@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Charles-Spencer Coleman
 
